@@ -1,12 +1,5 @@
 import { NextResponse } from "next/server";
 
-
-// export function GET(request:NextRequest){
-//    return NextResponse.json({messege:"my first API"}) 
-
-// }
-
-
 let books =  [
     {id:1, title:"Harry Potter", author:"J.K Rowling", available:true },
     {id:2, title:"Raja Gidh", author:"Bano Qudsia", available:true },
