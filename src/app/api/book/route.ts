@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 
-let books =  [
+const books =  [
     {id:1, title:"Harry Potter", author:"J.K Rowling", available:true },
     {id:2, title:"Raja Gidh", author:"Bano Qudsia", available:true },
     {id:3, title:"Bange Dara", author:"Allama Iqbal", available:true },
